@@ -1,0 +1,70 @@
+.cnt{
+    position: absolute;
+    left: 20px;
+    top: 15px;
+}
+.navbar{
+    position: absolute;
+    left: 250px;
+    bottom: 600px;
+    display: flex;
+    justify-content:center;
+    gap: 10px;
+}
+.log{
+    position:absolute;
+right: 300px;
+bottom: 580px;
+color:#4CAF4F;
+;
+}
+.main{
+    display: flex;
+}
+.btn{
+    background-color: #4CAF4F;
+    color: white;
+    border: 0px;
+    height: 25px;
+    width:70px;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 590px;
+    right:200px;
+}
+.txts{
+    text-align: center;
+}
+.icons{
+    display: flex;
+    width: 1152px;
+    height: 98px;
+    gap: 110px;
+    justify-content: right;
+}
+.txts2{
+text-align: center;
+}
+.icon2{
+    display: flex;
+    justify-content: center;
+}
+.boss{
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    left: 400px;
+}
+.lrem{
+    width: 661px;
+    height: 268px;
+    padding-top:90px;
+}
+.det{
+    background-color: #4CAF4F;
+    color: white;
+    width: 151px;
+    height: 52px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
